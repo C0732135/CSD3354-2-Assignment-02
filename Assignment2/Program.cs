@@ -41,5 +41,6 @@ namespace Assignment2
             int result2 = myDelegate(10);
             System.Console.WriteLine(result2);
         }
+
     }
 }
